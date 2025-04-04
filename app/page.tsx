@@ -69,7 +69,7 @@ export default function Home() {
         <section id="sobre-mi" className="py-12 md:py-24 lg:py-32 flex flex-col md:flex-row gap-8 items-center">
           <div className="w-full md:w-1/2 space-y-4">
             <h1 className="text-4xl md:text-6xl font-bold tracking-tight">
-              Hi, I'm <span className="blue-gradient-text">Andrey Fajardo H</span>
+              Hi, I'm <span className="blue-gradient-text">Andrey Fajardo </span>
             </h1>
             <p className="text-xl text-cyan-300">
                Developer focused on creating outstanding digital experiences
@@ -305,7 +305,7 @@ export default function Home() {
                       id="email"
                       type="email"
                       className="flex h-10 w-full rounded-md border border-slate-700 bg-slate-800/90 px-3 py-2 text-sm text-slate-200 ring-offset-background file:border-0 file:bg-transparent file:text-sm file:font-medium placeholder:text-slate-500 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cyan-500 focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50"
-                      placeholder="afajardocr23@gmail.com"
+                      placeholder="youremail@mail.com"
                     />
                   </div>
                 </div>
